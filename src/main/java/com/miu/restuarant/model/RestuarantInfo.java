@@ -10,7 +10,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Setter
 @ToString
 
-@Document(collation = "RestuarantInfo")
+@Document(collation = "restuarantInfo")
 public class RestuarantInfo {
     @Id
     private int id;
