@@ -1,4 +1,4 @@
-package com.miu.restuarant.utils;
+package com.miu.restuarant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
