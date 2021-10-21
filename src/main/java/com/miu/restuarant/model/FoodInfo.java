@@ -1,6 +1,7 @@
 package com.miu.restuarant.model;
 
 import lombok.Getter;
+import lombok.NonNull;
 import lombok.Setter;
 import lombok.ToString;
 import org.springframework.data.annotation.Id;
